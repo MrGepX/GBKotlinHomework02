@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GBKotlinHomework02</string>
+    <string name="mainPage_title">GeekBrains Notes</string>
+    <string name="note_title_text_stub">Note title</string>
+    <string name="note_main_text_stub">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>

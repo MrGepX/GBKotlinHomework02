@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="note_cardView_margin_size">4dp</dimen>
+    <dimen name="note_title_margin_size">8dp</dimen>
+    <dimen name="note_text_margin_size">8dp</dimen>
+    <dimen name="float_button_placement_margin">30dp</dimen>
+</resources>
